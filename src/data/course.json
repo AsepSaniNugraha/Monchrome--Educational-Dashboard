@@ -1,0 +1,51 @@
+[
+        {
+            "id": 1,
+            "icon": "GiArcher",
+            "name": "Archery",
+            "time": "Monday, Friday, 14:00",
+            "attendant": 12,
+            "available": 6,
+            "price": "40.000"
+        }, {
+            "id": 2,
+            "icon": "PiPersonSimpleSwimFill",
+            "name": "Swimming",
+            "time": "Tuesday, Thursday, 09:00",
+            "attendant": 20,
+            "available": 5,
+            "price": "30.000"
+        }, {
+            "id": 3,
+            "icon": "GiHorseshoe",
+            "name": "Horse Riding",
+            "time": "Monday, Saturday, 15:00",
+            "attendant": 10,
+            "available": 1,
+            "price": "50.000"
+        }, {
+            "id": 4,
+            "icon": "RiEnglishInput",
+            "name": "English",
+            "time": "Tuesday, Friday, 10:00",
+            "attendant": 5,
+            "available": 7,
+            "price": "20.000"
+        }, {
+            "id": 5,
+            "icon": "GiRobotGrab",
+            "name": "Robotic",
+            "time": "Wednesday, Friday, 16:00",
+            "attendant": 10,
+            "available": 2,
+            "price": "80.000"
+        }, {
+            "id": 6,
+            "icon": "TbAlphabetArabic",
+            "name": "Arabic",
+            "time": "Tuesday, Saturday, 16:00",
+            "attendant": 8,
+            "available": 6,
+            "price": "30.000"
+        }
+    ]

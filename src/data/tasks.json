@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "mainSubject": "Math",
+    "subSubject": "Trigonometry and Pythagoras",
+    "sumPages": 1,
+    "dueDate": "2 May 2026",
+    "points": 45
+  },
+  {
+    "id": 2,
+    "mainSubject": "Science",
+    "subSubject": "Photosynthesis",
+    "sumPages": 3,
+    "dueDate": "3 May 2026",
+    "points": 40
+  },
+  {
+    "id": 3,
+    "mainSubject": "English",
+    "subSubject": "Essay Writing",
+    "sumPages": 2,
+    "dueDate": "4 May 2026",
+    "points": 30
+  },
+  {
+    "id": 4,
+    "mainSubject": "History",
+    "subSubject": "World War II",
+    "sumPages": 4,
+    "dueDate": "5 May 2026",
+    "points": 50
+  },
+  {
+    "id": 5,
+    "mainSubject": "Geography",
+    "subSubject": "Climate Zones",
+    "sumPages": 2,
+    "dueDate": "6 May 2026",
+    "points": 35
+  },
+  {
+    "id": 6,
+    "mainSubject": "Math",
+    "subSubject": "Algebra Basics",
+    "sumPages": 3,
+    "dueDate": "7 May 2026",
+    "points": 40
+  },
+  {
+    "id": 7,
+    "mainSubject": "Science",
+    "subSubject": "Human Digestive System",
+    "sumPages": 2,
+    "dueDate": "8 May 2026",
+    "points": 45
+  },
+  {
+    "id": 8,
+    "mainSubject": "English",
+    "subSubject": "Grammar: Tenses",
+    "sumPages": 1,
+    "dueDate": "9 May 2026",
+    "points": 25
+  },
+  {
+    "id": 9,
+    "mainSubject": "History",
+    "subSubject": "Ancient Civilizations",
+    "sumPages": 5,
+    "dueDate": "10 May 2026",
+    "points": 55
+  },
+  {
+    "id": 10,
+    "mainSubject": "Geography",
+    "subSubject": "Map Reading Skills",
+    "sumPages": 2,
+    "dueDate": "11 May 2026",
+    "points": 30
+  },
+  {
+    "id": 11,
+    "mainSubject": "Math",
+    "subSubject": "Statistics Basics",
+    "sumPages": 3,
+    "dueDate": "12 May 2026",
+    "points": 45
+  },
+  {
+    "id": 12,
+    "mainSubject": "Science",
+    "subSubject": "Electric Circuits",
+    "sumPages": 4,
+    "dueDate": "13 May 2026",
+    "points": 50
+  },
+  {
+    "id": 13,
+    "mainSubject": "English",
+    "subSubject": "Reading Comprehension",
+    "sumPages": 2,
+    "dueDate": "14 May 2026",
+    "points": 35
+  },
+  {
+    "id": 14,
+    "mainSubject": "History",
+    "subSubject": "Independence Movements",
+    "sumPages": 3,
+    "dueDate": "15 May 2026",
+    "points": 45
+  },
+  {
+    "id": 15,
+    "mainSubject": "Geography",
+    "subSubject": "Natural Resources",
+    "sumPages": 2,
+    "dueDate": "16 May 2026",
+    "points": 40
+  }
+]
