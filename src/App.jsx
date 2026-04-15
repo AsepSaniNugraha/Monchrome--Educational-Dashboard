@@ -13,16 +13,16 @@ import Faq from './components/pages/help/Faq';
 const App = () => {
   return (
     <HashRouter>
-      <Routes >
-        <Route index element={<DashboardLayout />}>
+      <Routes>
+        <Route path="/" element={<DashboardLayout />}>
           <Route index element={<DashboardHome />} />
-          <Route path="/students" element={<StudentList />} />
-          <Route path='/students/detail' element={<StudentDetail />} />
-          <Route path='/courses' element={<CourseList />} />
-          <Route path='/courses/gallery' element={<Gallery />} />
-          <Route path='/assessment' element={<Tasks />} />
-          <Route path='/assessment/quiz' element={<Quiz />} />
-          <Route path='/faq' element={<Faq />} />
+          <Route path="students" element={<StudentList />} />
+          <Route path="students/detail" element={<StudentDetail />} />
+          <Route path="courses" element={<CourseList />} />
+          <Route path="courses/gallery" element={<Gallery />} />
+          <Route path="assessment" element={<Tasks />} />
+          <Route path="assessment/quiz" element={<Quiz />} />
+          <Route path="faq" element={<Faq />} />
         </Route>
       </Routes>
     </HashRouter>
